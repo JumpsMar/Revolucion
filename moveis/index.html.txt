@@ -9,3 +9,9 @@
 <!-- tags title e script ... -->
 </head>
 <!-- restante do arquivo ... -->
+<!-- início do arquivo ... -->
+<head>
+<!-- tags meta, link e title ... -->
+<script src="js/principal.js"></script>
+</head>
+<!-- restante do arquivo ... -->
